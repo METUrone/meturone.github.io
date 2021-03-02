@@ -7,7 +7,9 @@ topnav:
       external_url: https://github.com/METUrone
     - title: Team
       url: /news
-    - title: Computer Vision Documentation
+    - title: Computer Vision Docs
+      url: /news
+    - title: ROS Docs
       url: /news
 
 #Topnav dropdowns
