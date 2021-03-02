@@ -2,7 +2,7 @@
 
 entries:
 - title: Sidebar
-  levels: one
+  levels: two
   folders:
 
   - title: Pages
@@ -21,7 +21,7 @@ entries:
       - title: Computer Vision
         url: /news.html
         output: web
-      - title: ROS
+      - title: ROS Documentation
         url: /mydoc_introduction.html
         output: web
    
