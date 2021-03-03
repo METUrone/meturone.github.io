@@ -2,21 +2,22 @@
 
 entries:
 - title: Sidebar
-  levels: one
+  product: Homepage
   folders:
 
-  - title: Products
+  - title: Documentations
     output: web
     folderitems:
-    - title: Team
-      url: /news.html
-      output: web
     - title: CV Documentation
-      url: /cv_home.html
-      output: web
-    - title: ROS Documentation
-      url: /ros_home.html
-      output: web
-    - title: Other Docs
       url: /news.html
       output: web
+      
+    - title: ROS Documentation
+      url: /news.html
+      output: web
+
+  - title: Team
+    url: /news.html
+    output: web
+
+
