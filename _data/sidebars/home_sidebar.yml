@@ -9,11 +9,11 @@ entries:
     output: web
     folderitems:
     - title: CV Documentation
-      url: /news.html
+      url: /cv_home.html
       output: web
-      
+
     - title: ROS Documentation
-      url: /news.html
+      url: /ros_home.html
       output: web
 
   - title: Team
