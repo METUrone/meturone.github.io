@@ -8,9 +8,9 @@ topnav:
     - title: Team
       url: /news
     - title: Computer Vision Docs
-      url: /news
+      url: /cv_home
     - title: ROS Docs
-      url: /news
+      url: /ros_home
 
 #Topnav dropdowns
 #topnav_dropdowns:
