@@ -8,15 +8,15 @@ entries:
   - title: Products
     output: web
     folderitems:
-    - title: News
+    - title: Team
       url: /news.html
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
+    - title: CV Documentation
+      url: /cv_home.html
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
+    - title: ROS Documentation
+      url: /ros_home.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: Other Docs
+      url: /news.html
       output: web
