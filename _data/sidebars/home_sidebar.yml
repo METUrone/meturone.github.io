@@ -3,7 +3,11 @@
 entries:
 - title: Sidebar
   product: Homepage
+
   folders:
+  - title: Team
+    url: /news.html
+    output: web
 
   - title: Documentations
     output: web
@@ -16,8 +20,6 @@ entries:
       url: /ros_home.html
       output: web
 
-  - title: Team
-    url: /news.html
-    output: web
+
 
 
