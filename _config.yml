@@ -12,7 +12,7 @@ site_title: METURONE Website
 company_name: METU Robot Society
 # this appears in the footer
 
-github_editme_path: METUrone/meturone.github.io/tree/master/
+github_editme_path: METUrone/meturone.github.io/tree/master
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
