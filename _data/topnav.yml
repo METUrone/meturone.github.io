@@ -5,12 +5,7 @@ topnav:
   items:
     - title: GitHub
       external_url: https://github.com/METUrone
-    - title: Team
-      url: /news
-    - title: Computer Vision Docs
-      url: /cv_home
-    - title: ROS Docs
-      url: /ros_home
+
 
 #Topnav dropdowns
 #topnav_dropdowns:
