@@ -12,7 +12,7 @@ site_title: METURONE Website
 company_name: METU Robot Society
 # this appears in the footer
 
-github_editme_path: METUrone/meturone.github.io/tree/master
+github_editme_path: METUrone/meturone.github.io/tree/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -74,7 +74,7 @@ defaults:
       comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: 
+      sidebar: other
       topnav: topnav
   -
     scope:
@@ -94,7 +94,7 @@ defaults:
       comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: 
+      sidebar: other
       topnav: topnav
 
 # these are defaults used for the frontmatter for these file types
